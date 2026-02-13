@@ -1,0 +1,8 @@
+paho-mqtt
+websockets
+opencv-python
+numpy
+mediapipe
+fastapi
+uvicorn
+python-dotenv
